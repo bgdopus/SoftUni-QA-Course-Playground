@@ -1,0 +1,1 @@
+# SoftUni-QA-Course-Playground
